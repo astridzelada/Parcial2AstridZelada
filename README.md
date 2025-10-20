@@ -2,9 +2,9 @@
 ## Descripción: Este repositorio contiene un proyecto web básico y estamos
 ## aprendiendo a utilizar Git y GitHub.
 
-| carnet: 201805764 |
----------------------
-| Nombre: Astrid Carolina Zelada Lopez |
----------------------------------------
-| Fecha: 19 de octubre del 2025 |
----------------------------------
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
